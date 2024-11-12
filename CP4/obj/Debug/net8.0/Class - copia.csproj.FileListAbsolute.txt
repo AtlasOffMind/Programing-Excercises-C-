@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\TETA\Class - copia\obj\Debug\net8.0\Class - copia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TETA\Class - copia\obj\Debug\net8.0\Class - copia.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TETA\Class - copia\obj\Debug\net8.0\Class - copia.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TETA\Class - copia\obj\Debug\net8.0\Class - copia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TETA\Class - copia\bin\Debug\net8.0\Class - copia.exe
+C:\Users\Admin\Desktop\TETA\Class - copia\bin\Debug\net8.0\Class - copia.deps.json
+C:\Users\Admin\Desktop\TETA\Class - copia\bin\Debug\net8.0\Class - copia.runtimeconfig.json
+C:\Users\Admin\Desktop\TETA\Class - copia\bin\Debug\net8.0\Class - copia.dll
+C:\Users\Admin\Desktop\TETA\Class - copia\bin\Debug\net8.0\Class - copia.pdb
+C:\Users\Admin\Desktop\TETA\Class - copia\obj\Debug\net8.0\Class - copia.dll
+C:\Users\Admin\Desktop\TETA\Class - copia\obj\Debug\net8.0\refint\Class - copia.dll
+C:\Users\Admin\Desktop\TETA\Class - copia\obj\Debug\net8.0\Class - copia.pdb
+C:\Users\Admin\Desktop\TETA\Class - copia\obj\Debug\net8.0\Class - copia.genruntimeconfig.cache
+C:\Users\Admin\Desktop\TETA\Class - copia\obj\Debug\net8.0\ref\Class - copia.dll
+C:\Users\Admin\Desktop\TETA\CP4\bin\Debug\net8.0\Class - copia.exe
+C:\Users\Admin\Desktop\TETA\CP4\bin\Debug\net8.0\Class - copia.deps.json
+C:\Users\Admin\Desktop\TETA\CP4\bin\Debug\net8.0\Class - copia.runtimeconfig.json
+C:\Users\Admin\Desktop\TETA\CP4\bin\Debug\net8.0\Class - copia.dll
+C:\Users\Admin\Desktop\TETA\CP4\bin\Debug\net8.0\Class - copia.pdb
+C:\Users\Admin\Desktop\TETA\CP4\obj\Debug\net8.0\Class - copia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TETA\CP4\obj\Debug\net8.0\Class - copia.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TETA\CP4\obj\Debug\net8.0\Class - copia.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TETA\CP4\obj\Debug\net8.0\Class - copia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TETA\CP4\obj\Debug\net8.0\Class - copia.dll
+C:\Users\Admin\Desktop\TETA\CP4\obj\Debug\net8.0\refint\Class - copia.dll
+C:\Users\Admin\Desktop\TETA\CP4\obj\Debug\net8.0\Class - copia.pdb
+C:\Users\Admin\Desktop\TETA\CP4\obj\Debug\net8.0\Class - copia.genruntimeconfig.cache
+C:\Users\Admin\Desktop\TETA\CP4\obj\Debug\net8.0\ref\Class - copia.dll
